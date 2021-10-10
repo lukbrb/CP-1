@@ -1,0 +1,305 @@
+CRYST1   10.000   10.000   10.000  90.00  90.00  90.00
+ATOM      1  Kr   Kr     1       8.402   3.944   7.831  1.00  0.00          Kr
+TER
+ATOM      2  Kr   Kr     1       7.984   9.116   1.976  1.00  0.00          Kr
+TER
+ATOM      3  Kr   Kr     1       3.352   7.682   2.778  1.00  0.00          Kr
+TER
+ATOM      4  Kr   Kr     1       5.540   4.774   6.289  1.00  0.00          Kr
+TER
+ATOM      5  Kr   Kr     1       3.648   5.134   9.522  1.00  0.00          Kr
+TER
+ATOM      6  Kr   Kr     1       9.162   6.357   7.173  1.00  0.00          Kr
+TER
+ATOM      7  Kr   Kr     1       1.416   6.070   0.163  1.00  0.00          Kr
+TER
+ATOM      8  Kr   Kr     1       2.429   1.372   8.042  1.00  0.00          Kr
+TER
+ATOM      9  Kr   Kr     1       1.567   4.009   1.298  1.00  0.00          Kr
+TER
+ATOM     10  Kr   Kr     1       1.088   9.989   2.183  1.00  0.00          Kr
+TER
+ATOM     11  Kr   Kr     1       5.129   8.391   6.126  1.00  0.00          Kr
+TER
+ATOM     12  Kr   Kr     1       2.960   6.376   5.243  1.00  0.00          Kr
+TER
+ATOM     13  Kr   Kr     1       4.936   9.728   2.925  1.00  0.00          Kr
+TER
+ATOM     14  Kr   Kr     1       7.714   5.267   7.699  1.00  0.00          Kr
+TER
+ATOM     15  Kr   Kr     1       4.002   8.915   2.833  1.00  0.00          Kr
+TER
+ATOM     16  Kr   Kr     1       3.525   8.077   9.190  1.00  0.00          Kr
+TER
+ATOM     17  Kr   Kr     1       0.698   9.493   5.260  1.00  0.00          Kr
+TER
+ATOM     18  Kr   Kr     1       0.861   1.922   6.632  1.00  0.00          Kr
+TER
+ATOM     19  Kr   Kr     1       8.902   3.489   0.642  1.00  0.00          Kr
+TER
+ATOM     20  Kr   Kr     1       0.200   4.577   0.631  1.00  0.00          Kr
+TER
+ATOM     21  Kr   Kr     1       2.383   9.706   9.022  1.00  0.00          Kr
+TER
+ATOM     22  Kr   Kr     1       8.509   2.667   5.398  1.00  0.00          Kr
+TER
+ATOM     23  Kr   Kr     1       3.752   7.602   5.125  1.00  0.00          Kr
+TER
+ATOM     24  Kr   Kr     1       6.677   5.316   0.393  1.00  0.00          Kr
+TER
+ATOM     25  Kr   Kr     1       4.376   9.318   9.308  1.00  0.00          Kr
+TER
+ATOM     26  Kr   Kr     1       7.210   2.843   7.385  1.00  0.00          Kr
+TER
+ATOM     27  Kr   Kr     1       6.400   3.540   6.879  1.00  0.00          Kr
+TER
+ATOM     28  Kr   Kr     1       1.660   4.401   8.801  1.00  0.00          Kr
+TER
+ATOM     29  Kr   Kr     1       8.292   3.303   2.290  1.00  0.00          Kr
+TER
+ATOM     30  Kr   Kr     1       8.934   3.504   6.867  1.00  0.00          Kr
+TER
+ATOM     31  Kr   Kr     1       9.565   5.886   6.573  1.00  0.00          Kr
+TER
+ATOM     32  Kr   Kr     1       8.587   4.396   9.240  1.00  0.00          Kr
+TER
+ATOM     33  Kr   Kr     1       3.984   8.148   6.842  1.00  0.00          Kr
+TER
+ATOM     34  Kr   Kr     1       9.110   4.825   2.158  1.00  0.00          Kr
+TER
+ATOM     35  Kr   Kr     1       9.503   9.201   1.477  1.00  0.00          Kr
+TER
+ATOM     36  Kr   Kr     1       8.811   6.411   4.320  1.00  0.00          Kr
+TER
+ATOM     37  Kr   Kr     1       6.196   2.811   7.860  1.00  0.00          Kr
+TER
+ATOM     38  Kr   Kr     1       3.075   4.470   2.261  1.00  0.00          Kr
+TER
+ATOM     39  Kr   Kr     1       1.875   2.762   5.564  1.00  0.00          Kr
+TER
+ATOM     40  Kr   Kr     1       4.165   1.696   9.068  1.00  0.00          Kr
+TER
+ATOM     41  Kr   Kr     1       1.032   1.261   4.954  1.00  0.00          Kr
+TER
+ATOM     42  Kr   Kr     1       7.605   9.848   9.350  1.00  0.00          Kr
+TER
+ATOM     43  Kr   Kr     1       6.844   3.832   7.498  1.00  0.00          Kr
+TER
+ATOM     44  Kr   Kr     1       3.687   2.942   2.323  1.00  0.00          Kr
+TER
+ATOM     45  Kr   Kr     1       5.845   2.444   1.524  1.00  0.00          Kr
+TER
+ATOM     46  Kr   Kr     1       7.321   1.255   7.935  1.00  0.00          Kr
+TER
+ATOM     47  Kr   Kr     1       1.641   7.451   0.745  1.00  0.00          Kr
+TER
+ATOM     48  Kr   Kr     1       9.501   0.525   5.216  1.00  0.00          Kr
+TER
+ATOM     49  Kr   Kr     1       1.762   2.401   7.978  1.00  0.00          Kr
+TER
+ATOM     50  Kr   Kr     1       7.327   6.566   9.674  1.00  0.00          Kr
+TER
+ATOM     51  Kr   Kr     1       6.395   7.597   0.935  1.00  0.00          Kr
+TER
+ATOM     52  Kr   Kr     1       1.349   5.202   0.782  1.00  0.00          Kr
+TER
+ATOM     53  Kr   Kr     1       0.699   2.047   4.614  1.00  0.00          Kr
+TER
+ATOM     54  Kr   Kr     1       8.197   5.733   7.556  1.00  0.00          Kr
+TER
+ATOM     55  Kr   Kr     1       0.519   1.578  10.000  1.00  0.00          Kr
+TER
+ATOM     56  Kr   Kr     1       2.043   8.900   1.255  1.00  0.00          Kr
+TER
+ATOM     57  Kr   Kr     1       9.978   0.541   8.705  1.00  0.00          Kr
+TER
+ATOM     58  Kr   Kr     1       0.723   0.042   9.231  1.00  0.00          Kr
+TER
+ATOM     59  Kr   Kr     1       5.939   1.804   1.631  1.00  0.00          Kr
+TER
+ATOM     60  Kr   Kr     1       3.917   9.130   8.197  1.00  0.00          Kr
+TER
+ATOM     61  Kr   Kr     1       3.591   5.525   5.794  1.00  0.00          Kr
+TER
+ATOM     62  Kr   Kr     1       4.526   6.874   0.996  1.00  0.00          Kr
+TER
+ATOM     63  Kr   Kr     1       5.308   7.573   3.043  1.00  0.00          Kr
+TER
+ATOM     64  Kr   Kr     1       9.922   5.770   8.776  1.00  0.00          Kr
+TER
+ATOM     65  Kr   Kr     1       7.478   6.289   0.354  1.00  0.00          Kr
+TER
+ATOM     66  Kr   Kr     1       7.478   8.332   9.254  1.00  0.00          Kr
+TER
+ATOM     67  Kr   Kr     1       8.733   8.310   9.794  1.00  0.00          Kr
+TER
+ATOM     68  Kr   Kr     1       7.438   9.034   9.836  1.00  0.00          Kr
+TER
+ATOM     69  Kr   Kr     1       6.669   4.973   1.640  1.00  0.00          Kr
+TER
+ATOM     70  Kr   Kr     1       8.300   8.889   0.770  1.00  0.00          Kr
+TER
+ATOM     71  Kr   Kr     1       6.497   2.480   6.295  1.00  0.00          Kr
+TER
+ATOM     72  Kr   Kr     1       2.291   7.006   3.169  1.00  0.00          Kr
+TER
+ATOM     73  Kr   Kr     1       3.288   2.314   0.742  1.00  0.00          Kr
+TER
+ATOM     74  Kr   Kr     1       6.331   2.237   6.511  1.00  0.00          Kr
+TER
+ATOM     75  Kr   Kr     1       5.107   9.715   2.800  1.00  0.00          Kr
+TER
+ATOM     76  Kr   Kr     1       5.461   7.193   1.133  1.00  0.00          Kr
+TER
+ATOM     77  Kr   Kr     1       4.715   5.925   9.443  1.00  0.00          Kr
+TER
+ATOM     78  Kr   Kr     1       4.509   3.364   8.477  1.00  0.00          Kr
+TER
+ATOM     79  Kr   Kr     1       4.345   0.032   3.449  1.00  0.00          Kr
+TER
+ATOM     80  Kr   Kr     1       5.985   8.332   2.339  1.00  0.00          Kr
+TER
+ATOM     81  Kr   Kr     1       6.755   4.830   4.819  1.00  0.00          Kr
+TER
+ATOM     82  Kr   Kr     1       3.050   7.121   1.826  1.00  0.00          Kr
+TER
+ATOM     83  Kr   Kr     1       6.218   0.409   4.140  1.00  0.00          Kr
+TER
+ATOM     84  Kr   Kr     1       6.960   6.739   6.376  1.00  0.00          Kr
+TER
+ATOM     85  Kr   Kr     1       3.471   1.846   6.091  1.00  0.00          Kr
+TER
+ATOM     86  Kr   Kr     1       6.272   7.307   3.284  1.00  0.00          Kr
+TER
+ATOM     87  Kr   Kr     1       7.404   2.022   9.209  1.00  0.00          Kr
+TER
+ATOM     88  Kr   Kr     1       6.848   6.531   2.573  1.00  0.00          Kr
+TER
+ATOM     89  Kr   Kr     1       5.324   0.876   2.605  1.00  0.00          Kr
+TER
+ATOM     90  Kr   Kr     1       8.774   6.861   0.937  1.00  0.00          Kr
+TER
+ATOM     91  Kr   Kr     1       1.113   3.616   5.767  1.00  0.00          Kr
+TER
+ATOM     92  Kr   Kr     1       5.932   6.666   2.888  1.00  0.00          Kr
+TER
+ATOM     93  Kr   Kr     1       7.758   2.884   3.296  1.00  0.00          Kr
+TER
+ATOM     94  Kr   Kr     1       1.898   9.844   0.036  1.00  0.00          Kr
+TER
+ATOM     95  Kr   Kr     1       8.274   3.315   1.882  1.00  0.00          Kr
+TER
+ATOM     96  Kr   Kr     1       4.365   9.586   9.189  1.00  0.00          Kr
+TER
+ATOM     97  Kr   Kr     1       7.649   6.991   1.211  1.00  0.00          Kr
+TER
+ATOM     98  Kr   Kr     1       6.858   3.838   7.743  1.00  0.00          Kr
+TER
+ATOM     99  Kr   Kr     1       9.431   9.163   8.619  1.00  0.00          Kr
+TER
+ATOM    100  Kr   Kr     1       2.035   7.937   5.480  1.00  0.00          Kr
+TER
+ATOM    101  Kr   Kr     1       2.973   9.049   9.096  1.00  0.00          Kr
+TER
+ATOM    102  Kr   Kr     1       8.740   4.981   5.762  1.00  0.00          Kr
+TER
+ATOM    103  Kr   Kr     1       1.628   2.739   8.646  1.00  0.00          Kr
+TER
+ATOM    104  Kr   Kr     1       4.924   4.637   8.489  1.00  0.00          Kr
+TER
+ATOM    105  Kr   Kr     1       4.960   2.911   1.804  1.00  0.00          Kr
+TER
+ATOM    106  Kr   Kr     1       6.842   7.276   1.391  1.00  0.00          Kr
+TER
+ATOM    107  Kr   Kr     1       6.031   4.924   8.381  1.00  0.00          Kr
+TER
+ATOM    108  Kr   Kr     1       7.243   1.782   2.220  1.00  0.00          Kr
+TER
+ATOM    109  Kr   Kr     1       4.985   1.213   1.382  1.00  0.00          Kr
+TER
+ATOM    110  Kr   Kr     1       3.604   3.248   9.319  1.00  0.00          Kr
+TER
+ATOM    111  Kr   Kr     1       9.085   6.221   8.368  1.00  0.00          Kr
+TER
+ATOM    112  Kr   Kr     1       8.181   4.961   3.350  1.00  0.00          Kr
+TER
+ATOM    113  Kr   Kr     1       3.943   6.588   6.089  1.00  0.00          Kr
+TER
+ATOM    114  Kr   Kr     1       2.589   1.512   0.725  1.00  0.00          Kr
+TER
+ATOM    115  Kr   Kr     1       1.078   6.472   3.636  1.00  0.00          Kr
+TER
+ATOM    116  Kr   Kr     1       2.883   3.314   0.911  1.00  0.00          Kr
+TER
+ATOM    117  Kr   Kr     1       4.273   9.345   5.836  1.00  0.00          Kr
+TER
+ATOM    118  Kr   Kr     1       2.655   6.587   7.618  1.00  0.00          Kr
+TER
+ATOM    119  Kr   Kr     1       4.874   1.573   8.830  1.00  0.00          Kr
+TER
+ATOM    120  Kr   Kr     1       6.257   5.177   2.078  1.00  0.00          Kr
+TER
+ATOM    121  Kr   Kr     1       5.576   4.262   8.299  1.00  0.00          Kr
+TER
+ATOM    122  Kr   Kr     1       3.944   2.443   3.260  1.00  0.00          Kr
+TER
+ATOM    123  Kr   Kr     1       7.294   6.387   9.848  1.00  0.00          Kr
+TER
+ATOM    124  Kr   Kr     1       3.382   8.976   1.361  1.00  0.00          Kr
+TER
+ATOM    125  Kr   Kr     1       4.108   0.054   7.833  1.00  0.00          Kr
+TER
+ATOM    126  Kr   Kr     1       7.744   2.937   1.147  1.00  0.00          Kr
+TER
+ATOM    127  Kr   Kr     1       8.655   7.210   0.492  1.00  0.00          Kr
+TER
+ATOM    128  Kr   Kr     1       4.491   9.865   7.079  1.00  0.00          Kr
+TER
+ATOM    129  Kr   Kr     1       2.109   4.739   8.652  1.00  0.00          Kr
+TER
+ATOM    130  Kr   Kr     1       0.939   0.996   3.829  1.00  0.00          Kr
+TER
+ATOM    131  Kr   Kr     1       3.018   6.571   8.091  1.00  0.00          Kr
+TER
+ATOM    132  Kr   Kr     1       1.317   0.515   0.534  1.00  0.00          Kr
+TER
+ATOM    133  Kr   Kr     1       4.577   7.809   6.921  1.00  0.00          Kr
+TER
+ATOM    134  Kr   Kr     1       4.426   1.191   5.896  1.00  0.00          Kr
+TER
+ATOM    135  Kr   Kr     1       5.786   5.299   5.950  1.00  0.00          Kr
+TER
+ATOM    136  Kr   Kr     1       3.619   3.043   8.887  1.00  0.00          Kr
+TER
+ATOM    137  Kr   Kr     1       4.766   1.698   6.097  1.00  0.00          Kr
+TER
+ATOM    138  Kr   Kr     1       5.257   6.189   5.962  1.00  0.00          Kr
+TER
+ATOM    139  Kr   Kr     1       2.337   8.298   0.701  1.00  0.00          Kr
+TER
+ATOM    140  Kr   Kr     1       0.988   9.237   1.696  1.00  0.00          Kr
+TER
+ATOM    141  Kr   Kr     1       4.817   2.255   8.268  1.00  0.00          Kr
+TER
+ATOM    142  Kr   Kr     1       2.908   3.572   8.783  1.00  0.00          Kr
+TER
+ATOM    143  Kr   Kr     1       3.443   8.149   6.591  1.00  0.00          Kr
+TER
+ATOM    144  Kr   Kr     1       0.363   2.575   7.783  1.00  0.00          Kr
+TER
+ATOM    145  Kr   Kr     1       6.260   8.361   3.082  1.00  0.00          Kr
+TER
+ATOM    146  Kr   Kr     1       2.210   1.980   6.124  1.00  0.00          Kr
+TER
+ATOM    147  Kr   Kr     1       1.097   6.746   7.823  1.00  0.00          Kr
+TER
+ATOM    148  Kr   Kr     1       7.195   2.004   4.012  1.00  0.00          Kr
+TER
+ATOM    149  Kr   Kr     1       3.157   4.340   2.310  1.00  0.00          Kr
+TER
+ATOM    150  Kr   Kr     1       3.857   5.328   1.547  1.00  0.00          Kr
+TER
+ATOM    151  Kr   Kr     1       5.554   0.146   3.802  1.00  0.00          Kr
+TER
+ATOM    152  Kr   Kr     1       3.822   3.054   7.374  1.00  0.00          Kr
+TER

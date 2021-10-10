@@ -1,0 +1,16 @@
+Temps : 16.156768798828125 - Initial
+Temps : 22.139379262924194 - Création coordonnées avec numpy
+Temps : 21.895142316818237 - Création coordonnées avec un seul tableau numpy
+Temps : 21.80701756477356 - Changement de la copie
+Temps : 23.80228066444397 - Vectorisation de la fonction wrap_into_box
+Temps : 22.005877017974854 - x*x plutôt que x**2
+Temps : 0.7144365310668945 - Changement calcul énergie
+Temps : 1.2188007831573486 - Changement calcul énergie + limites aux bords
+Temps : 21.846673488616943 - Triple tableau pour coordonnées/ Suppression fonction inutilisée
+Temps : 58.91508507728577 - Modif conditions aux limites et recadrage dans la boîte
+Temps : 60.18993878364563 - Recadre seulement les coordonnées de l'atome bougé
+Temps : 64.18783760070801 - Test sans recadrage
+Temps : 62.09887146949768 - Vectorisation du déplacement
+Temps : 63.99976968765259 - Sans l'écriture des données
+Temps : 45.3508620262146 - Remplaçant la méthode append de numpy par celle native de Python
+Temps : 1250.049837589264 - Remplaçant la méthode append de numpy par celle native de Python
